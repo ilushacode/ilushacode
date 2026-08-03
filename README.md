@@ -22,7 +22,7 @@
 * **BaaS / Headless CMS:** `Supabase` / `Directus` / `Firebase`
 
 ### ⚙️ DevOps, Инфраструктура & Linux
-* **Развертывание & PaaS:** `Dokploy` (Self-hosted решения)
+* **Развертывание & PaaS:** `Kubernetes (k3s/k8s)`, `Dokploy` (Self-hosted решения)
 * **Веб-серверы:** `Nginx` / `Apache`
 * **Панели управления:** `FastPanel` / `VestaCP` / `ISPmanager`
 * **CMS & Платформы:** `WordPress` / `DLE` / `IPS Community`
