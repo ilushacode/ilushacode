@@ -1,59 +1,37 @@
-# Hey there! Я — Fullstack-разработчик, музыкант и идеолог Web3 🚀
+# Илья - Fullstack-разработчик
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Value-Privacy_First-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Web3_&_Decentralization-111111?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OS-Linux_Enthusiast-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
+**Frontend · Node.js · Python**
 
 ---
 
-## 🛠️ Технический стек и экосистема
+## 🛠️ Стек
 
-### 💻 Языки программирования и фреймворки
-* **Frontend:** `HTML5` / `CSS3` / `ReactJS` / `NextJS`
-* **Mobile:** `React Native` (Кроссплатформенная разработка)
-* **Backend:** `Node.js (Express)` / `Python (FastAPI)` / `Go` / `PHP (Laravel)`
-* **Real-time:** `Socket.io` / WebSockets
-
-### 🗄️ Базы данных & BaaS
-* **SQL:** `PostgreSQL` / `MySQL` / `MariaDB` / `SQLite`
-* **NoSQL:** `MongoDB`
-* **BaaS / Headless CMS:** `Supabase` / `Directus` / `Firebase`
-
-### ⚙️ DevOps, Инфраструктура & Linux
-* **Развертывание & PaaS:** `Kubernetes (k3s/k8s)`, `Dokploy` (Self-hosted решения)
-* **Веб-серверы:** `Nginx` / `Apache`
-* **Панели управления:** `FastPanel` / `VestaCP` / `ISPmanager`
-* **CMS & Платформы:** `WordPress` / `DLE` / `IPS Community`
-
-### 🎨 Работа с дизайном
-* `Figma` / `Photoshop` / `Illustrator`
+**Frontend:** React, Next.js, TypeScript, HTML5, CSS3  
+**Backend:** Node.js (Express), Python (FastAPI)
+**Mobile:** React Native  
+**Базы данных:** PostgreSQL, MySQL, MongoDB, Supabase, Firebase  
+**DevOps:** Docker, Kubernetes, Nginx, Linux
+**Автоматизация**: n8n
 
 ---
 
-## ⏳ Дорожная карта: Как всё начиналось и к чему пришло
+## 🤖 AI / LLM
 
-```text
-2016 ── 📖 Впервые открыл книгу по HTML и погрузился в веб-технологии
-2017 ── 🌐 Прошел первые профильные курсы по Frontend-разработке
-2018 ── 🤖 Заинтересовался бэкендом: начал изучать PHP и писать первых ботов для ВК
-2019 ── 🐧 Глубокое погружение в экосистему Linux, работу с CMS и панелями управления (Vesta, ISP)
-2020 ── 💰 Первые фриланс-проекты: разработка и архитектура сайтов на HTML и PHP
-2021 ── 🐍 Расширение стека: изучение Laravel, Python и создание сложных ботов для TG и Discord
-2022 ── 🚀 Первый крупный личный успех: собственный Telegram-бот преодолевает планку в 2000+ пользователей
-2023 ── 📱 Переход в коммерческий бэкенд, активное изучение деплоя, инфраструктуры и мобильной разработки
-2024 ── 👨‍🏫 Преподавание Python в школе программирования и первые шаги в обучении нейросетей
-2025 ── 🎙️ Выпуск первых студентов, выступления на IT-конференциях и глубокое освоение философии Web3, изучение Go
-2026 ── ⚡ Настоящее время: Архитектура децентрализованных сервисов, автоматизация и новые вызовы... [Loading]
-```
+Профессионально использую ИИ в повседневной разработке - от генерации кода до автоматизации процессов.  
+Имею практический опыт **обучения и дообучения LLM-моделей**, работы с датасетами и тонкой настройки под прикладные задачи.
 
 ---
 
-## 🎵 Музыкальное творчество
-Помимо программирования и системного администрирования, важная часть моей жизни — это **музыка**. Я пишу треки, занимаюсь аранжировкой и сведением звука. Верю, что создание чистого, элегантного кода и написание хорошей музыки работают по одним и тем же законам: везде важна гармония, структура и внимание к мельчайшим деталям.
+## 💼 Опыт
 
-## 📫 Связь со мной
- * **Telegram:** @iku04
- * **Email:** iku04@yandex.ru
- * **Сайт:** [ilusha.space](https://ilusha.space/)
+- Разработка веб-приложений и бэкенд-сервисов (Node.js, Python).
+- Создание Telegram, Discord и ВК-ботов - 2000+ пользователей единовременно.
+- Деплой и поддержка проектов на Linux, Nginx, Kubernetes.
+- Преподавание алгоритмизации и Python в школе программирования (2024 - 2026).
+
+---
+
+## 📫 Контакты
+
+- **Telegram:** [@iku04](https://t.me/@iku04)
+- **Email:** iku04@yandex.ru
