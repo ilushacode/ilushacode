@@ -6,12 +6,12 @@
 
 ## 🛠️ Стек
 
-**Frontend:** React, Next.js, TypeScript, HTML5, CSS3  
-**Backend:** Node.js (Express), Python (FastAPI)
-**Mobile:** React Native  
-**Базы данных:** PostgreSQL, MySQL, MongoDB, Supabase, Firebase  
-**DevOps:** Docker, Kubernetes, Nginx, Linux
-**Автоматизация**: n8n
+- **Frontend:** React, Next.js, TypeScript, HTML5, CSS3  
+- **Backend:** Node.js (Express), Python (FastAPI)
+- **Mobile:** React Native  
+- **Базы данных:** PostgreSQL, MySQL, MongoDB, Supabase, Firebase  
+- **DevOps:** Docker, Kubernetes, Nginx, Linux
+- **Автоматизация**: n8n
 
 ---
 
